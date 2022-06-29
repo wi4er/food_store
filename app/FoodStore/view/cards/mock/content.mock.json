@@ -1,0 +1,116 @@
+[
+{
+    "_id": "123",
+    "tiemstamp": "2022-01-01T00:00:00.000Z",
+    "created": "2022-01-01T00:00:00.000Z",
+    "image": {
+        "PREVIEW": [{
+            "url": "ProductPhoto"
+        }]
+    },
+    "uniq": [{
+        "uniq": "SLUG",
+        "value": "coca-cola"
+    }],
+    "property": {
+        "DEF": {
+            "NAME": "Coca cola"
+        }
+    }
+},
+{
+    "_id": "124",
+    "tiemstamp": "2022-01-01T00:00:00.000Z",
+    "created": "2022-01-01T00:00:00.000Z",
+    "image": {
+        "PREVIEW": [{
+            "url": "OrangePhoto"
+        }]
+    },
+    "uniq": [{
+        "uniq": "SLUG",
+        "value": "coca-cola"
+    }],
+    "property": {
+        "DEF": {
+            "NAME": "Oranges"
+        }
+    }
+},
+{
+    "_id": "125",
+    "tiemstamp": "2022-01-01T00:00:00.000Z",
+    "created": "2022-01-01T00:00:00.000Z",
+    "image": {
+        "PREVIEW": [{
+            "url": "HotdogPhoto"
+        }]
+    },
+    "uniq": [{
+        "uniq": "SLUG",
+        "value": "coca-cola"
+    }],
+    "property": {
+        "DEF": {
+            "NAME": "Hot dog with very long name"
+        }
+    }
+},
+{
+    "_id": "126",
+    "tiemstamp": "2022-01-01T00:00:00.000Z",
+    "created": "2022-01-01T00:00:00.000Z",
+    "image": {
+        "PREVIEW": [{
+            "url": "ProductPhoto"
+        }]
+    },
+    "uniq": [{
+        "uniq": "SLUG",
+        "value": "coca-cola"
+    }],
+    "property": {
+        "DEF": {
+            "NAME": "Coca cola"
+        }
+    }
+},
+{
+    "_id": "127",
+    "tiemstamp": "2022-01-01T00:00:00.000Z",
+    "created": "2022-01-01T00:00:00.000Z",
+    "image": {
+        "PREVIEW": [{
+            "url": "ProductPhoto"
+        }]
+    },
+    "uniq": [{
+        "uniq": "SLUG",
+        "value": "coca-cola"
+    }],
+    "property": {
+        "DEF": {
+            "NAME": "Coca cola"
+        }
+    }
+},
+{
+    "_id": "128",
+    "tiemstamp": "2022-01-01T00:00:00.000Z",
+    "created": "2022-01-01T00:00:00.000Z",
+    "image": {
+        "PREVIEW": [{
+            "url": "ProductPhoto"
+        }]
+    },
+    "uniq": [{
+        "uniq": "SLUG",
+        "value": "coca-cola"
+    }],
+    "property": {
+        "DEF": {
+            "NAME": "Coca cola"
+        }
+    }
+}
+]
